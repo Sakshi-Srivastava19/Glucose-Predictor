@@ -1,10 +1,12 @@
-🧪 Glucose Level Predictor Web App
+## 🧪 Glucose Level Predictor Web App
 An interactive and user-friendly web application to predict whether a person has high glucose levels based on various health indicators. The app supports individual and batch predictions, bilingual labels (English & Hindi), and a modern UI with chart-based probability visualization.
 
-🌐 Live Demo
-Coming Soon – deploy using Render, Vercel, or locally via Flask.
+## 🌐 Live Demo
+Deploy using Render-
+[https://glucose-predictor.onrender.com]
 
-🛠️ Features
+--- 
+## 🛠️ Features
 ✅ Predict glucose level status (Normal or High)
 
 📊 Bar chart showing prediction probability
@@ -17,7 +19,9 @@ Coming Soon – deploy using Render, Vercel, or locally via Flask.
 
 📚 Descriptions for each input feature
 
-🖥️ Technologies Used
+---
+
+## 🖥️ Technologies Used
 Python (Flask, NumPy, Pandas, scikit-learn, joblib)
 
 HTML5, CSS3, Bootstrap 5
